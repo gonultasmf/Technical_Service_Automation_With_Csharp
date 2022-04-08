@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="S0038" xml:space="preserve">
+    <value>AHORRAR</value>
+  </data>
+  <data name="S0070" xml:space="preserve">
+    <value>EDITAR</value>
+  </data>
+  <data name="S0112" xml:space="preserve">
+    <value>fue entregado</value>
+  </data>
+  <data name="S0116" xml:space="preserve">
+    <value>tarifa ha recibida</value>
+  </data>
+  <data name="S0185" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="S0186" xml:space="preserve">
+    <value>CLIENTE</value>
+  </data>
+  <data name="S0187" xml:space="preserve">
+    <value>NÚMERO</value>
+  </data>
+  <data name="S0188" xml:space="preserve">
+    <value>MARCA</value>
+  </data>
+  <data name="S0189" xml:space="preserve">
+    <value>MODELO</value>
+  </data>
+  <data name="S0190" xml:space="preserve">
+    <value>FALLA</value>
+  </data>
+  <data name="S0191" xml:space="preserve">
+    <value>EXPLICACIÓN</value>
+  </data>
+  <data name="S0192" xml:space="preserve">
+    <value>ENTREGA</value>
+  </data>
+  <data name="S0193" xml:space="preserve">
+    <value>REGISTRO</value>
+  </data>
+  <data name="S0194" xml:space="preserve">
+    <value>ALARMA</value>
+  </data>
+  <data name="S0202" xml:space="preserve">
+    <value>No ha sido entregado</value>
+  </data>
+  <data name="S0203" xml:space="preserve">
+    <value>Sin carga</value>
+  </data>
+  <data name="S0205" xml:space="preserve">
+    <value>ERROR</value>
+  </data>
+  <data name="S0206" xml:space="preserve">
+    <value>Seleccione una de las filas completas !!!</value>
+  </data>
+  <data name="S0207" xml:space="preserve">
+    <value>Error de conector de internet. ¡No tienes conexión!</value>
+  </data>
+  <data name="S0208" xml:space="preserve">
+    <value>ADVERTENCIA</value>
+  </data>
+  <data name="S0209" xml:space="preserve">
+    <value>¿Estás seguro de que quieres borrarlo?</value>
+  </data>
+  <data name="S0210" xml:space="preserve">
+    <value>Por favor, seleccione un cliente !!!</value>
+  </data>
+  <data name="S0211" xml:space="preserve">
+    <value>¡Más de un cliente no se puede mostrar al mismo tiempo!</value>
+  </data>
+  <data name="S0212" xml:space="preserve">
+    <value>Imei no debe tener 15 dígitos !!!</value>
+  </data>
+  <data name="S0213" xml:space="preserve">
+    <value>¿Está seguro de que desea transferir datos a Excel?</value>
+  </data>
+  <data name="S0214" xml:space="preserve">
+    <value>Necesita ser reiniciado</value>
+  </data>
+  <data name="S0215" xml:space="preserve">
+    <value>Proceso de envío de correo exitoso ...</value>
+  </data>
+  <data name="S0217" xml:space="preserve">
+    <value>ACTUALİZAR TRANSACCİÓN</value>
+  </data>
+  <data name="S0218" xml:space="preserve">
+    <value>¡La alarma no se puede configurar en el tiempo pasado!</value>
+  </data>
+  <data name="S0219" xml:space="preserve">
+    <value>El mensaje enviado falló.</value>
+  </data>
+  <data name="S0220" xml:space="preserve">
+    <value>Se encontró un error desconocido durante su operación. Inténtalo de nuevo marcando su información ...</value>
+  </data>
+  <data name="S0221" xml:space="preserve">
+    <value>INFORMACIÓN</value>
+  </data>
+  <data name="S0222" xml:space="preserve">
+    <value>Ingrese la ruta del archivo a la que se realizará una copia de seguridad de la base de datos ...</value>
+  </data>
+  <data name="S0223" xml:space="preserve">
+    <value>Por favor introduzca una dirección de correo eléctronico ...</value>
+  </data>
+  <data name="S0224" xml:space="preserve">
+    <value>Las copias de seguridad de correo se llevaron a cabo con éxito ...</value>
+  </data>
+  <data name="S0225" xml:space="preserve">
+    <value>El cliente es un archivo de base de datos de repuesto ...</value>
+  </data>
+  <data name="S0226" xml:space="preserve">
+    <value>Número total de clientes : </value>
+  </data>
+  <data name="S0227" xml:space="preserve">
+    <value>Número de clientes que no se entregan : </value>
+  </data>
+  <data name="S0228" xml:space="preserve">
+    <value>El usuario ya se está utilizando...</value>
+  </data>
+  <data name="S0229" xml:space="preserve">
+    <value>Lista de alarmas Número de clientes : </value>
+  </data>
+  <data name="S0230" xml:space="preserve">
+    <value>Dirección de correo o contraseña no ingresada !!!</value>
+  </data>
+  <data name="S0231" xml:space="preserve">
+    <value>¡Su período de demostración ha expirado! Introduzca la clave del producto.</value>
+  </data>
+  <data name="S0232" xml:space="preserve">
+    <value>Actualmente está utilizando la versión de demostración. Su derecho restante de uso : </value>
+  </data>
+  <data name="S0233" xml:space="preserve">
+    <value>El registro no es posible sin ingresar la información del cliente!!!</value>
+  </data>
+</root>
