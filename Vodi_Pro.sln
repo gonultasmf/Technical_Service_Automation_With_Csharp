@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodi_Pro", "Vodi_Pro\Vodi_Pro.csproj", "{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7EC470-B916-4802-B789-C0BFEA1FCBB3}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916F9E8A-C250-4879-8DB3-AC522D9C60D2}
+	EndGlobalSection
+EndGlobal
